@@ -1,6 +1,6 @@
 # flutter_app_center
 
-Site qui va référencer toutes les apps Flutter de la communauté  avec Liens de téléchargement, lien de code source si c'est open source et un petit rating
+A central repository for applications created using the Flutter framework, with download links for the various platforms.
 
 ## Getting Started
 
